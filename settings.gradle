@@ -1,0 +1,2 @@
+rootProject.name='FBLA_2021_Mobile_Final'
+include ':app'
